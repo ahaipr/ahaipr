@@ -6,6 +6,8 @@
 ![image](https://user-images.githubusercontent.com/102465093/160277892-18e55801-f2a0-46d5-b30e-924412c85be3.png)
 > 既要向左走，又要向右走。
 
+爱因斯坦说：“任何聪明的傻瓜都能让事情变得更宏大更复杂。走向相反的方向需要天赋，以及巨大的勇气。”
+
 ## [老喻 人生算法课]()
 
 ![image](https://user-images.githubusercontent.com/102465093/160278039-7c8c54b5-9380-469c-b5cf-4b02d89df0fb.png)
@@ -15,7 +17,6 @@
 ![image](https://user-images.githubusercontent.com/102465093/160278052-002e9e58-88a5-4016-ab6d-14a046bc522a.png)
 ![image](https://user-images.githubusercontent.com/102465093/160278053-76382959-e0c9-47ca-a0a2-2b3d1b86b6da.png)
 ![image](https://user-images.githubusercontent.com/102465093/160278058-56a3cb7c-341f-4b5d-8f16-78238a08eaf7.png)
-
 
 ## [蔡钰 批判性思维15讲]()
 
@@ -38,7 +39,6 @@
 ![image](https://user-images.githubusercontent.com/102465093/160278129-9a32d138-0cf1-4ecd-bbe4-f89466063429.png)
 ![image](https://user-images.githubusercontent.com/102465093/160278132-d9134614-cfb1-4465-bedf-166466558007.png)
 ![image](https://user-images.githubusercontent.com/102465093/160278138-e86fb34f-2c99-4475-8c3e-30a7dc4a1712.png)
-
 
 ## 参考
 
